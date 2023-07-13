@@ -12,11 +12,8 @@
 
 ## Unity projects:
 ### [RPG](https://github.com/MrGorthaur/UnityExamples/tree/main/RPG)
-<details><summary>Screenshots</summary>
-</details>
 ### [Match](https://github.com/MrGorthaur/UnityExamples/tree/main/R2D2)
-<details><summary>Screenshots</summary>
-</details>
+
 
 
     
